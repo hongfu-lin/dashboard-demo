@@ -1,1 +1,1 @@
-Dashboard DemoDashboard DemoDashboard Demo
+Dashboard Demo
